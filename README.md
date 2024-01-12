@@ -1,7 +1,7 @@
 # Grid Layout Practice
 
 This repository contains my practice exercises with CSS Grid Layout. I've named each section using grid areas and arranged them using grid column areas for a structured and responsive design.
-  ##Responsive Design
+  
   I've made the layout responsive using media queries, adapting to smaller and medium-sized devices.
 ## Sections
 
