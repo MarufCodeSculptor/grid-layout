@@ -1,7 +1,8 @@
 # Grid Layout Practice
 
 This repository contains my practice exercises with CSS Grid Layout. I've named each section using grid areas and arranged them using grid column areas for a structured and responsive design.
-
+  ##Responsive Design
+  I've made the layout responsive using media queries, adapting to smaller and medium-sized devices.
 ## Sections
 
 1. **Header:** Positioned at the top of the grid layout, this section serves as the header for the webpage.
@@ -25,6 +26,4 @@ grid-template-areas:
    "advertisement"
   "footer";
   
-  ##Responsive Design
-  I've made the layout responsive using media queries, adapting to smaller and medium-sized devices.
   
