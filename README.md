@@ -24,3 +24,7 @@ grid-template-areas:
   "sidebar"
    "advertisement"
   "footer";
+  
+  ##Responsive Design
+  I've made the layout responsive using media queries, adapting to smaller and medium-sized devices.
+  
